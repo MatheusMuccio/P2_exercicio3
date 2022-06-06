@@ -7,8 +7,8 @@ public class Principal {
 
         pessoa.setNome("Matheus");
         pessoa.setEndereco("Parque das nações");
-        pessoaFisica.setCPF("20.300.850/0001-01");
-        pessoaJuridica.setCNPJ("830.456.769-89");
+        pessoaFisica.setCPF("830.456.769-89");
+        pessoaJuridica.setCNPJ("20.300.850/0001-01");
 
         System.out.println("Nome: " + pessoa.Nome);
         System.out.println("Endereço: " + pessoa.Endereco);
